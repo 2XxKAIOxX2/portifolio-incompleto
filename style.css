@@ -35,6 +35,7 @@ header {
 .portfolio h1{
     font-size: 4rem;
     color: var(--amarelo-claro);
+    background-color: #493D9E;
 }
 main {
     margin: 40px auto;
