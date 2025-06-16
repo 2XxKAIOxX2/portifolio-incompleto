@@ -32,7 +32,7 @@ header {
     justify-content: center;
 }
 
-.portfolio h1{
+.portfolio {
     font-size: 4rem;
     color: var(--amarelo-claro);
 }
